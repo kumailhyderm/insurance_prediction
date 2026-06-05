@@ -24,7 +24,7 @@ A beginner data science project built during my Data Science & Analytics Interns
 
 ## What I Did
 
-1. **Loaded and explored the dataset** using pandas — checked shape, data types, and basic statistics
+1. **Loaded and explored the dataset** using pandas checked shape, data types, and basic statistics
 2. **Visualized key features:**
    - Box plot: Smoker vs Charges - smokers pay significantly more
    - Scatter plot: BMI vs Charges - higher BMI tends to mean higher cost
