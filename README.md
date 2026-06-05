@@ -30,7 +30,7 @@ A beginner data science project built during my Data Science & Analytics Interns
    - Scatter plot: BMI vs Charges - higher BMI tends to mean higher cost
    - Scatter plot: Age vs Charges - older people pay more
 3. **Encoded categorical columns** (sex, smoker, region) using One-Hot Encoding so the model can process them
-4. **Split the data** — 80% for training, 20% for testing
+4. **Split the data** 80% for training, 20% for testing
 5. **Trained a Linear Regression model** using scikit-learn
 6. **Evaluated the model** using MAE and RMSE
 
@@ -49,7 +49,7 @@ The model is off by about $4,181 on average. Smoking status turned out to be the
 
 ## Key Findings
 
-- Smokers pay roughly 3–4x more than non-smokers
+- Smokers pay roughly 3 - 4x more than non-smokers
 - Age has a clear positive relationship with charges
 - BMI combined with smoking creates the highest-cost group
 - Region and sex have relatively small effects on charges
