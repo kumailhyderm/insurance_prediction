@@ -88,4 +88,16 @@ pip install pandas seaborn matplotlib scikit-learn numpy jupyter
 
 ---
 
+## Author
+
+**Muhammad Kumail Haider**  
+[GitHub](https://github.com/kumailhyderm) · [LinkedIn](https://linkedin.com/in/kumailhyderm)
+
+---
+
+## License
+
+This project is open-source under the [MIT License](LICENSE).
+
+
 *This project was completed as part of the DevelopersHub Corporation Data Science & Analytics Internship.*
