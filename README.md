@@ -24,15 +24,15 @@ A beginner data science project built during my Data Science & Analytics Interns
 
 ## What I Did
 
-1. **Loaded and explored the dataset** using pandas checked shape, data types, and basic statistics
+1. Loaded and explored the dataset using pandas checked shape, data types, and basic statistics
 2. **Visualized key features:**
    - Box plot: Smoker vs Charges - smokers pay significantly more
    - Scatter plot: BMI vs Charges - higher BMI tends to mean higher cost
    - Scatter plot: Age vs Charges - older people pay more
-3. **Encoded categorical columns** (sex, smoker, region) using One-Hot Encoding so the model can process them
-4. **Split the data** 80% for training, 20% for testing
-5. **Trained a Linear Regression model** using scikit-learn
-6. **Evaluated the model** using MAE and RMSE
+3. Encoded categorical columns (sex, smoker, region) using One-Hot Encoding so the model can process them
+4. Split the data 80% for training, 20% for testing
+5. Trained a Linear Regression model using scikit-learn
+6. Evaluated the model using MAE and RMSE
 
 ---
 
